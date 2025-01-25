@@ -1,0 +1,456 @@
+[
+    {
+        "label": "ContentType",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums",
+        "description": "aiogram.enums",
+        "isExtraImport": true,
+        "detail": "aiogram.enums",
+        "documentation": {}
+    },
+    {
+        "label": "container",
+        "importPath": "src",
+        "description": "src",
+        "isExtraImport": true,
+        "detail": "src",
+        "documentation": {}
+    },
+    {
+        "label": "container",
+        "importPath": "src",
+        "description": "src",
+        "isExtraImport": true,
+        "detail": "src",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "FSInputFile",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "src.bot.bot",
+        "description": "src.bot.bot",
+        "isExtraImport": true,
+        "detail": "src.bot.bot",
+        "documentation": {}
+    },
+    {
+        "label": "transcrible",
+        "importPath": "src.services.recognizer",
+        "description": "src.services.recognizer",
+        "isExtraImport": true,
+        "detail": "src.services.recognizer",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "src.config",
+        "description": "src.config",
+        "isExtraImport": true,
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "IGNORECASE",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BaseStates",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "GreenAPIBot",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "BaseStates",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "GreenAPIBot",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "whatsapp_chatbot_python",
+        "description": "whatsapp_chatbot_python",
+        "isExtraImport": true,
+        "detail": "whatsapp_chatbot_python",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "src.bot.settings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "src.bot.settings",
+        "description": "src.bot.settings",
+        "detail": "src.bot.settings",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "importPath": "src.products",
+        "description": "src.products",
+        "isExtraImport": true,
+        "detail": "src.products",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "configure_credentials",
+        "importPath": "speechkit",
+        "description": "speechkit",
+        "isExtraImport": true,
+        "detail": "speechkit",
+        "documentation": {}
+    },
+    {
+        "label": "model_repository",
+        "importPath": "speechkit",
+        "description": "speechkit",
+        "isExtraImport": true,
+        "detail": "speechkit",
+        "documentation": {}
+    },
+    {
+        "label": "creds",
+        "importPath": "speechkit.common.utils",
+        "description": "speechkit.common.utils",
+        "isExtraImport": true,
+        "detail": "speechkit.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AudioProcessingType",
+        "importPath": "speechkit.stt",
+        "description": "speechkit.stt",
+        "isExtraImport": true,
+        "detail": "speechkit.stt",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "src.bot.utils.keyboards",
+        "description": "src.bot.utils.keyboards",
+        "isExtraImport": true,
+        "detail": "src.bot.utils.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIWorker",
+        "importPath": "src.services.openai_worker",
+        "description": "src.services.openai_worker",
+        "isExtraImport": true,
+        "detail": "src.services.openai_worker",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "kind": 6,
+        "importPath": "src.bot.utils.keyboards",
+        "description": "src.bot.utils.keyboards",
+        "peekOfCode": "class Keyboards:\n    @classmethod\n    def start_inline_keyboard(cls):\n        return InlineKeyboardMarkup(\n            inline_keyboard=[\n                [InlineKeyboardButton(\n                    text='Badge Company', url='http://badge-digital.com')],\n                [InlineKeyboardButton(\n                    text='ИИ-чат бот, КП', callback_data='кп')],\n            ]",
+        "detail": "src.bot.utils.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "src.bot.bot",
+        "description": "src.bot.bot",
+        "peekOfCode": "bot = Bot(settings.BOT_TOKEN)",
+        "detail": "src.bot.bot",
+        "documentation": {}
+    },
+    {
+        "label": "States",
+        "kind": 6,
+        "importPath": "src.bot.main",
+        "description": "src.bot.main",
+        "peekOfCode": "class States(BaseStates):\n    ACTIVE = 'active'\n    LANGUAGE_SET = 'lang_set'\n@bot.router.message(type_message=filters.TEXT_TYPES,\n                    state=None)\ndef message_handler(notification: Notification) -> None:\n    notification.state_manager.update_state(notification.sender,\n                                            States.ACTIVE.value)\n    if (notification.event[\"messageData\"]['typeMessage'] == 'extendedTextMessage'):\n        text = notification.event[\"messageData\"]['extendedTextMessageData']['text']",
+        "detail": "src.bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "message_handler",
+        "kind": 2,
+        "importPath": "src.bot.main",
+        "description": "src.bot.main",
+        "peekOfCode": "def message_handler(notification: Notification) -> None:\n    notification.state_manager.update_state(notification.sender,\n                                            States.ACTIVE.value)\n    if (notification.event[\"messageData\"]['typeMessage'] == 'extendedTextMessage'):\n        text = notification.event[\"messageData\"]['extendedTextMessageData']['text']\n    else:\n        text = notification.event[\"messageData\"]['textMessageData']['textMessage']\n    answer = ai_worker.get_product_info(text, notification.chat)\n    notification.answer(answer)\n@bot.router.message(type_message='audioMessage', state=None)",
+        "detail": "src.bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "message_handler",
+        "kind": 2,
+        "importPath": "src.bot.main",
+        "description": "src.bot.main",
+        "peekOfCode": "def message_handler(notification: Notification) -> None:\n    text = transcrible(\n        notification.event[\"messageData\"]['fileMessageData']['downloadUrl']\n    )\n    # print(text)\n    answer = ai_worker.get_product_info(text, notification.chat)\n    notification.answer(answer)\ntry:\n    bot.run_forever()\nexcept ():",
+        "detail": "src.bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "openai_contnet",
+        "kind": 5,
+        "importPath": "src.bot.settings",
+        "description": "src.bot.settings",
+        "peekOfCode": "openai_contnet = {\n    'start': {\n        \"role\": \"system\",\n        \"content\": \"Тебя зовут Валерия, ты менеджер ресторана Амели. Ты можешь общаться на казахском, английском и русском языках.\"\n        \"Ты рассказываешь информацию о ресторане Амели, включая меню, услуги и предложения, но никакой дополнительной информации.\"\n        \"Если клиент указывает свою страну, при приветствии переводи прайс меню в его валюту.\"\n        \"Всегда обращайся к клиенту на вы.\"\n        \"Также ты можешь принимать бронирование столиков. В ресторане есть 12 столиков: 5 столиков на 2 человека, 4 столика на 4 человека и 2 столика на 8 человек.\"\n        \"Если клиент забронировал столик, уменьши количество свободных столиков на 1. Если все столики забронированы, сообщай клиенту, что свободных мест нет.\"\n        \"Меню ресторана Амели:\"",
+        "detail": "src.bot.settings",
+        "documentation": {}
+    },
+    {
+        "label": "keywords_content",
+        "kind": 5,
+        "importPath": "src.bot.settings",
+        "description": "src.bot.settings",
+        "peekOfCode": "keywords_content = {\n    'price': {\n        \"role\": \"manager\",\n        \"content\": \"Стоит много, ты не осилишь\"\n    }\n}",
+        "detail": "src.bot.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ContentMaker",
+        "kind": 6,
+        "importPath": "src.services.openai_worker",
+        "description": "src.services.openai_worker",
+        "peekOfCode": "class ContentMaker:\n    def __init__(self, products: list[dict], settings: dict):\n        self.products = products\n        self.settings = settings\nclass OpenAIWorker:\n    products: list[dict] = products\n    def __init__(self, model: str, history_file: str, api_key: str, organization: str, project: str):\n        self.model = model\n        self.history_file = history_file\n        self.api_key = api_key",
+        "detail": "src.services.openai_worker",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIWorker",
+        "kind": 6,
+        "importPath": "src.services.openai_worker",
+        "description": "src.services.openai_worker",
+        "peekOfCode": "class OpenAIWorker:\n    products: list[dict] = products\n    def __init__(self, model: str, history_file: str, api_key: str, organization: str, project: str):\n        self.model = model\n        self.history_file = history_file\n        self.api_key = api_key\n        self.organization = organization\n        self.project = project\n    def get_client(self):\n        return OpenAI(",
+        "detail": "src.services.openai_worker",
+        "documentation": {}
+    },
+    {
+        "label": "transcrible",
+        "kind": 2,
+        "importPath": "src.services.recognizer",
+        "description": "src.services.recognizer",
+        "peekOfCode": "def transcrible(url: str):\n    configure_credentials(\n        yandex_credentials=creds.YandexCredentials(\n            api_key=settings.YANDEX_SPEECH_KEY\n        )\n    )\n    response = requests.get(url, stream=True)\n    model = model_repository.recognition_model()\n    model.model = 'general:rc'\n    model.language = 'auto'",
+        "detail": "src.services.recognizer",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    BOT_TOKEN: str\n    WB_BOT_ID: str\n    WB_API_KEY: str\n    OPENAI_API_KEY: str\n    OPENAI_ORGANIZATION: str\n    OPENAI_PROJECT: str\n    YANDEX_SPEECH_KEY: str\n    model_config = SettingsConfigDict(env_file=\".env\", extra=\"allow\")\nsettings: Settings = Settings()",
+        "detail": "src.config",
+        "documentation": {}
+    }
+]

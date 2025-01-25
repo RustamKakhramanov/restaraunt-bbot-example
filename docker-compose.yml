@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+  bot:
+    build: .
+    depends_on:
+      - ffmpeg
+    restart: always
+
+  ffmpeg:
+    image: jrottenberg/ffmpeg:latest
+    restart: always
